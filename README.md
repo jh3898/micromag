@@ -1,0 +1,2 @@
+# micromag
+micromagnetics in python
