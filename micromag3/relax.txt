@@ -1,0 +1,3 @@
+#               time  E_UniformExchange            E_total                m_x                m_y                m_z            m_error          real_time          rhs_evals               step 
+#                <s>                <J>                <J>                 <>                 <>                 <>                 <>                <s>                 <>                 <> 
+               1e-13                  0                  0      0.96560909917     0.241402274793     0.096560909917                  0      1517589494.74                  8              1e-13 
